@@ -30,7 +30,7 @@ My goal is to continue improving my programming skills and expanding my knowledg
 - **Artificial Intelligence:** I'm very interested in learning and exploring this area in the future.
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/luischang151103)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luischang07&show_icons=true&theme=radical)
