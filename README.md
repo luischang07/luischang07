@@ -1,4 +1,7 @@
-## ✨Hello! 👋 I'm LuisChang
+## ✨Hello! 👋
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=175&color=0:4392a9,100:ae3e42&text=LuisChang&reversal=false&textBg=false&fontAlignY=44&fontAlign=44&animation=fadeIn&desc=One%20in%20a%20Million&descAlign=54&section=header&descAlignY=77)
+
 
 I have experience in software development, focusing on Java, Laravel, databases, and web development with HTML, CSS, node-js, and JavaScript. Additionally, I have worked with Android Studio for mobile application development and I have basic knowledge of Python and C#
 
