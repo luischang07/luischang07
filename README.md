@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=175&color=0:4392a9,100:ae3e42&text=LuisChang&reversal=false&textBg=false&fontAlignY=44&fontAlign=44&animation=fadeIn&desc=One%20in%20a%20Million&descAlign=54&section=header&descAlignY=77)
 
 
-I have experience in software development, focusing on Java, Laravel, databases, and web development with HTML, CSS, node-js, and JavaScript. Additionally, I have worked with Android Studio for mobile application development and I have basic knowledge of Python and C#
+I have experience in software development, focusing on Java, vue, TypeScript, relational databases, and web development with HTML, CSS, Node.js, and JavaScript. Additionally, I have worked with Android Studio for mobile application development and have experience with Python, Laravel and C#.
 
 My goal is to continue improving my programming skills and expanding my knowledge in areas such as artificial intelligence and advanced web development.
 
@@ -17,10 +17,12 @@ My goal is to continue improving my programming skills and expanding my knowledg
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 ## 🚀 Featured Projects
 - [SuperMarket CRUD](https://github.com/luischang07/Supermarket-CRUD): Android studio applicaction where customers who can register the purchase of product(s) as well as packages (a set of products) in a single transaction.
-- [Website with laravel](https://github.com/luischang07/Club-Conquistadores-chang): Software Engineering(SCD-1011): A fictional problem of the Conquistadores club to enroll the students and preserve historical data to make strategic decisions.
+- [Website LCRUD](https://github.com/luischang07/ProyectoWeb): A full-stack project with a Node.js and TypeScript backend using Express, CORS, Zod, and a MySQL database integrated with MySQL2. The frontend is built with Vue.js 3, Vite, TypeScript, Axios, and Zod.
 
 ## 🎓 Education
 - **Bachelor's in Computer Systems Engineering** (4th Year) - [Instituto Tecnológico de Culiacán]
